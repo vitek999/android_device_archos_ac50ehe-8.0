@@ -110,8 +110,8 @@ PRODUCT_PACKAGES += \
     libgenlock
 
 # Doze
-PRODUCT_PACKAGES += \
-    DozeService
+#PRODUCT_PACKAGES += \
+#    DozeService
 
 # DRM
 PRODUCT_PACKAGES += \
