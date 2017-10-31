@@ -96,9 +96,9 @@ TARGET_USES_HWC2 := true
 TARGET_USES_NEW_ION_API :=true
 
 # Hardware tunables framework
-BOARD_HARDWARE_CLASS := \
-    hardware/cyanogen/cmhw \
-    $(LOCAL_PATH)/cmhw
+#BOARD_HARDWARE_CLASS := \
+#    hardware/cyanogen/cmhw \
+#    $(LOCAL_PATH)/cmhw
 
 # Init
 TARGET_PLATFORM_DEVICE_BASE := /devices/soc.0/
